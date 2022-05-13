@@ -1,0 +1,17 @@
+e82558e3fb8151ec2e798be4a04fe5b8 *DESCRIPTION
+38810b7dd764081e3681cf113ac467ac *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+ad73ec1c71e69a290ba8a4b46a585e70 *R/NovelDistns.R
+ebfe990226b315644e91ee1bd1516078 *data/bladderdata.rda
+522da3da9f994d55a1d03bf1af12a228 *data/italydata.rda
+b8100b6095cba7bec67140a685ea3ef0 *data/jetairplane.rda
+2a7486a14c89aab634c22f3050633e82 *data/kenyadata.rda
+de50e1a29c4d9f0779615c6261f970db *data/ukdata.rda
+e5779913f4ee9fe910ef4ea8b3ebdb0f *man/bladderdata.Rd
+5a73c56f2b061d6724341b5745ca9324 *man/egap.Rd
+d435356eb67aa566d883cd648ca4783c *man/eggap.Rd
+13f72b0af6c871e76c050ebe2b211bfc *man/gap.Rd
+128b17367cc2ca28871a372e2fc39148 *man/italydata.Rd
+0bd65c7d84c6a3223e7129c6b25f929b *man/jetairplane.Rd
+af3732a4c77cbeb4ade90741864963d4 *man/kenyadata.Rd
+9d42ebd1ce0f1ceb9c3fe25b664c8663 *man/ukdata.Rd
